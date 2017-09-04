@@ -59,7 +59,7 @@ public class Field {
 						 + "      4   There exists 4 mines in 4 adjacent fields\n");
 		System.out.println("      .   This is an unsearched field\n"
 						 + "      X   Mine located (Unfortunately, this means Game Over)\n");
-		System.out.println("  How is your deductive reasoning, minesweeper?\n");
+		System.out.println("  How is your deductive reasoning, MineSweeper?\n");
 		String start = scan.nextLine();
 		do {
 			System.out.println("    --------------\n"

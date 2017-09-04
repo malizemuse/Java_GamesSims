@@ -19,14 +19,13 @@ public class Field {
 	private int totalFields;
 	private int numMines;
 	private int numToClear;
+	private int numGuess;
 
 	private List<List<Integer>> mineLocations = new ArrayList<List<Integer>>();
 	private List<List<Integer>> searchedLocations = new ArrayList<List<Integer>>();
 	
 	private int mine_x;
 	private int mine_y;
-	
-	private int numGuess;
 	
 	private boolean gameOver = false;
 	private boolean gameWin = false;

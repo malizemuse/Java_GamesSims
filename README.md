@@ -1,5 +1,4 @@
-# Java_GamesSims
+# Java Games / Simulations
 
-Just some fun programs created to practice Java.
-
-Including Minesweeper, Conway's Game of Life, Rock Paper Scissors Battle
+These are some Java programs created purely just to do it,
+including Minesweeper, Conway's Game of Life, and a Rock Paper Scissors Battle Simulation.
